@@ -6,18 +6,18 @@ Challenge 11
  - Filter By Date: 
  
  Please use this format when searching by a specific date (mm/dd/yyyy). As shown in the picture below.
- ![alt text](https://github.com/HusamQ/UFO-sightings/blob/main/images/byDate.PNG)
+ ![alt text](https://github.com/HusamQ/UFO-sightings/blob/7b70e8681345b9310db44e072017caf0dfd834cc/static/images/byDate.PNG)
  
  - FIlter by City: by typing the name of the city.
- ![alt text](https://github.com/HusamQ/UFO-sightings/blob/main/images/byCity.PNG)
+ ![alt text](https://github.com/HusamQ/UFO-sightings/blob/7b70e8681345b9310db44e072017caf0dfd834cc/static/images/byCity.PNG)
  
  -Filter by state; Type the state abbreviation.
- ![alt text](https://github.com/HusamQ/UFO-sightings/blob/main/images/byState.PNG)
+ ![alt text](https://github.com/HusamQ/UFO-sightings/blob/7b70e8681345b9310db44e072017caf0dfd834cc/static/images/byState.PNG)
  
  - Filter by country: Type in the country abbreviation.
  ![alt text](https://github.com/HusamQ/UFO-sightings/blob/6ff89439ebec44251e2161dc1280c2538b1c325b/images/byCountry.PNG)
  
  - Filter by shape: Enter the UFO shape.
- ![alt text](https://github.com/HusamQ/UFO-sightings/blob/main/images/byShape.PNG)
+ ![alt text](https://github.com/HusamQ/UFO-sightings/blob/7b70e8681345b9310db44e072017caf0dfd834cc/static/images/byShape.PNG)
  
  
