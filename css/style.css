@@ -1,0 +1,8 @@
+body {
+    color: #f7f7f7cb;
+}
+.jumbotron {
+    background-image: url("../images/background.jfif");
+    background-size: 100% 100%;
+    text-align: center;
+  }
